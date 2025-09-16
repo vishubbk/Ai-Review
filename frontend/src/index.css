@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+.main {
+  overflow: scroll;
+  scrollbar-color: rgb(54, 52, 52) black;
+  scrollbar-width: thin;
+}
