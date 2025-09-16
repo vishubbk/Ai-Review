@@ -14,7 +14,6 @@ AVOID EXTRA EXPLANATION OR IRRELEVANT TALK.
 
 📌 ALWAYS REPLY IN THIS FORMAT:
 
-Whatever my code is, read that code by highlighting it and my background is of this color bg-[#1f1f1f], send colors according to it, best of the text and code and multi colors
 
 ## 🔴 Bugs / Problems
 - List all syntax errors, runtime issues, logical mistakes.

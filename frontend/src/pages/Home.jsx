@@ -105,13 +105,13 @@ const Home = () => {
       {/* Right Section */}
       <div className="right w-full md:w-1/2 bg-[#1f1f1f] p-4 overflow-y-scroll rounded-lg shadow-lg">
         <div className="flex justify-between items-center mb-4 gap-2">
-          <h1 className="text-white font-bold text-2xl">🤖 AI Review</h1>
+          <h1 className="text-white font-bold text-2xl">🤖 AI Review gpt</h1>
           <div className="flex gap-2">
             <button
               onClick={handleCopyAll}
               className="px-3 py-1 bg-blue-600 hover:bg-blue-500 text-white rounded-lg text-sm shadow-md"
             >
-              📋 Copy All
+              📋 Copy All 
             </button>
             <button
               onClick={handleCopyCode}
